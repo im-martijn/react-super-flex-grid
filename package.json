@@ -1,0 +1,22 @@
+{
+  "name": "react-super-flex-grid",
+  "version": "1.0.0",
+  "description": "A higher order react component that wraps an array of content components into a resizable, draggable, flexbox column grid.",
+  "main": "build/index.js",
+  "repository": {
+    "url": "https://github.com/im-martijn/react-super-flex-grid",
+    "type": "git"
+  },
+  "author": "Martijn Senden <martijn@instantmagazine.com>",
+  "license": "MIT",
+  "keywords": ["react", "higher order component", "hoc", "grid", "flexbox", "resize", "resizable"],
+  "homepage": "https://github.com/im-martijn/react-super-flex-grid",
+  "bugs": "https://github.com/im-martijn/react-super-flex-grid/issues",
+  "contributors": [
+    "Barry Tielkes <barry@instantmagazine.com>",
+    "Joost Galama <joost@instantmagazine.com>"
+  ],
+  "files": [
+    "build/react-super-flex-grid.min.js"
+  ]
+}
